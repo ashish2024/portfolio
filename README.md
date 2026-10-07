@@ -1,4 +1,4 @@
-#Developer Portfolio
+#  Developer Portfolio
 
 A responsive personal developer portfolio built with React and Vite to showcase my technical skills, professional experience, projects, education, certifications, and contact information.
 
